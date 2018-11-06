@@ -13,6 +13,9 @@
     </header>
     <div id="content">
       This is the conent
+      <br>
+      <strong>Home Page</strong>
+      <br>
        </div>
   <footer>
     This is the footer
