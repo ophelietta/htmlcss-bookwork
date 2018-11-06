@@ -12,7 +12,7 @@
        This is the header
     </header>
     <div id="content">
-      This is the conent
+      This is the content
       <br>
       <strong>Home Page</strong>
       <br>
