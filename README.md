@@ -16,7 +16,7 @@
       <br>
       <strong>Home Page</strong>
       <br>
-      <a href="./page2.html>Go To Page 2</a><br>
+      <a href="./htmlcss-bookwork/page2</a><br>
       <a href="https://github.com/ophelietta/htmlcss-bookwork/blob/master/README.md">Return to Home Page</a><br>
        </div>
   <footer>
