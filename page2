@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page Two</title>
+    <meta charset=utf-8>
+  </head>
+<body>
+  <div id="wrapper">
+     <header>
+       This is the header
+    </header>
+    <div id="content">
+      This is the content
+      <br>
+      <strong>Page Two</strong>
+      <br>
+       </div>
+  <footer>
+    This is the footer
+    </footer>
+  </div>
+</body>
+</html>   
