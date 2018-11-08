@@ -5,7 +5,7 @@
   <head>
     <title>Template</title>
     <meta charset=utf-8>
-    <link href="{{site.baseurl}}/style.css" rel="stylesheet" type="text/css">
+    <link href="{{site.baseurl}}/htmlcss-bookwork/style.css" rel="stylesheet" type="text/css">
   </head>
 <body>
   <div id="wrapper">
