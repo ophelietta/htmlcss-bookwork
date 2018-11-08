@@ -3,7 +3,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Template</title>
     <meta charset=utf-8>
     <link href="htmlcss-bookwork/style.css" rel="stylesheet" type="text/css">
   </head>
