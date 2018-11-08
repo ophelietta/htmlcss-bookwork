@@ -5,7 +5,7 @@
   <head>
     <title>Template</title>
     <meta charset=utf-8>
-    <link href="style.css" rel="stylesheet" type="text/css">
+    <link href="./style.css" rel="stylesheet" type="text/css">
   </head>
 <body>
   <div id="wrapper">
