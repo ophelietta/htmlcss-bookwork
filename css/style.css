@@ -1,5 +1,5 @@
 #wrapper {margin:auto; width:1024px; border:2px blue solid;}
-header {height:50px; test-align:center; color:red; background:yellow;}
+header {height:60px; test-align:center; color:red; background:yellow;}
 h1 {font-size:22pt; font-weight:bold; text-align:center;}
 h2 {font-size:18pt; text-align:center;}
 p {font-size:14pt; text-align:center;}
