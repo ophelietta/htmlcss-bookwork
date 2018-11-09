@@ -1,10 +1,10 @@
 #wrapper {margin:auto; width:1024px; border:2px blue solid;}
 header {margin-top:0; height:150px; background:url(https://cdn.nybooks.com/wp-content/uploads/2016/04/muhlstein_1-051216.jpg);}
+br.clear{clear:both}
 h1 {position:absolute; top:45px; margin-left:30px; font-size:40pt; color:navy; font-weight:bold;}
 h2 {font-size:18pt; text-align:center;}
 p {font-size:14pt; text-align:center;}
 a {font-size:14pt;}
-br.clear{clear:both}
 #leftcol {float:left; width:150px; height:190px; background:aqua;}
 #rightcol {float:right; width:150px; height:190px; background:aqua;}
 #midcol {margin-left:155px; margin-right:155px}
