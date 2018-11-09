@@ -5,5 +5,5 @@ h2 {font-size:18pt; text-align:center;}
 p {font-size:14pt; text-align:center;}
 a {font-size:14pt;}
 #leftcol {float:left; width:150px; height:130px; background:aqua;}
-#rightcol [float:right; width:150px; height:130px; background:aqua;}
+#rightcol {float:right; width:150px; height:130px; background:aqua;}
 #midcol {margin-left:155px; margin-right:155px}
