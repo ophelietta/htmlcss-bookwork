@@ -7,5 +7,5 @@ a {font-size:14pt;}
 #leftcol {float:left; width:150px; height:190px; background:aqua;}
 #rightcol {float:right; width:150px; height:190px; background:aqua;}
 #midcol {margin-left:155px; margin-right:155px}
-#midcol-left {float:left; width:48%; background:lime; font-weight:bold;}
-#midcol-right {float:right; width:48%; background:lime; font-weight:bold;}
+#midcol-left {float:left; background:lime; font-weight:bold;}
+#midcol-right {float:right; background:lime; font-weight:bold;}
