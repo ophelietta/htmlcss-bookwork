@@ -9,3 +9,4 @@ a {font-size:14pt;}
 #midcol {margin-left:155px; margin-right:155px}
 #midcol-left {float:left; width:25%; background:lime; font-weight:bold;}
 #midcol-right {float:right; width:25%; background:lime; font-weight:bold;}
+br.clear {clear:midcol-left}
