@@ -8,6 +8,6 @@ a {font-size:14pt;}
 #rightcol {float:right; width:150px; height:180px; background:aqua;}
 #midcol {margin-left:155px; margin-right:155px}
 br.clear {clear:both}
-#midcol-left {float:left; width:35%; background:lime; font-weight:bold;}
-#midcol-right {float:right; width:35%; background:lime; font-weight:bold;}
+#midcol-left {float:left; width:30%; background:lime; font-weight:bold;}
+#midcol-right {float:right; width:30%; background:lime; font-weight:bold;}
 br.clear {clear:both}
