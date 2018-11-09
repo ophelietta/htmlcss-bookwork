@@ -7,3 +7,4 @@ a {font-size:14pt;}
 #leftcol {float:left; width:150px; height:150px; background:aqua;}
 #rightcol {float:right; width:150px; height:150px; background:aqua;}
 #midcol {margin-left:155px; margin-right:155px}
+#midcoleft {float:left;}
