@@ -4,7 +4,8 @@ h1 {font-size:22pt; font-weight:bold; text-align:center;}
 h2 {font-size:18pt; text-align:center;}
 p {font-size:14pt; text-align:center;}
 a {font-size:14pt;}
-#leftcol {float:left; width:150px; height:150px; background:aqua;}
-#rightcol {float:right; width:150px; height:150px; background:aqua;}
+#leftcol {float:left; width:150px; height:190px; background:aqua;}
+#rightcol {float:right; width:150px; height:190px; background:aqua;}
 #midcol {margin-left:155px; margin-right:155px}
-#midcolleft {margin-left:130px; margin-right 130px;}
+#midcol-left {float:left; width:48%; background:lime; font-weight:bold;}
+#midcol-right {float:right; width:48%; background:lime; font-weight:bold;}
